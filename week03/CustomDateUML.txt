@@ -1,0 +1,23 @@
+ __________________________________________________________
+|                CustomDate                                |
+|----------------------------------------------------------|
+| - month: int                                             |
+| - day: int                                               |
+| - year: int                                              |
+|----------------------------------------------------------|
+| + CustomDate(month: int, day: int, year: int)            |
+| + getMonth(): int                                        |
+| + setMonth(month: int): void                             |
+| + getDay(): int                                          |
+| + setDay(day: int): void                                 |
+| + getYear(): int                                         |
+| + setYear(year: int): void                               |
+| + displayDate(): void                                    |
+| + difference(date: CustomDate): int                      |
+| + compare(date1: CustomDate, date2: CustomDate): int     |
+| + displayFormatted(): void                               |
+| - getMonthString(): String                               |
+| - isValidDate(month: int, day: int, year: int): boolean  |
+| - isLeapYear(year: int): boolean                         |
+| - isValidDay(day: int, month: int, year: int): boolean   |
+ ----------------------------------------------------------

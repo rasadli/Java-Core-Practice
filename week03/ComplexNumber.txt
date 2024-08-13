@@ -1,0 +1,17 @@
+______________________________________________________
+|                   ComplexNumber                    |
+|----------------------------------------------------|
+| - real : double                                    |
+| - imag : double                                    |
+|----------------------------------------------------|
+| + ComplexNumber(real : double,imag : double)       |
+| + equals(number : ComplexNumber) : boolean         |
+| + toString() : String                              |
+| + re() : double                                    |
+| + imag() : double                                  |
+| + conjugate() : ComplexNumber                      |
+| + abs() : double                                   |
+| + add(number : ComplexNumber) : ComplexNumber      |
+| + sub(number : ComplexNumber) : ComplexNumber      |
+| + mult(number : ComplexNumber) : ComplexNumber     |
+|----------------------------------------------------|
